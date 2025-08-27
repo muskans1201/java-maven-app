@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>maven-muskan-app</finalName>
+    <finalName>maven-muskaan-app</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
