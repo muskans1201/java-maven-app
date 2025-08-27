@@ -75,7 +75,7 @@
 <body>
 
   <header>
-    <h1>🌸 Muskan Singh</h1>
+    <h1>Muskan Singh</h1>
     <p>Cloud & DevOps Enthusiast | Problem Solver | Learner</p>
   </header>
 
@@ -95,11 +95,11 @@
   <section id="projects">
     <h2>Projects</h2>
     <div class="card">
-      <h3>🚀 CI/CD Pipeline with Kubernetes</h3>
+      <h3>CI/CD Pipeline with Kubernetes</h3>
       <p>Built a complete CI/CD pipeline using Jenkins, Docker, and Kubernetes.</p>
     </div>
     <div class="card">
-      <h3>☁️ Event Management App on AWS</h3>
+      <h3>Event Management App on AWS</h3>
       <p>Developed a serverless event management application using AWS Lambda, S3, and RDS.</p>
     </div>
   </section>
@@ -107,13 +107,13 @@
   <section id="contact">
     <h2>Contact Me</h2>
     <div class="card">
-      <p>📧 Email: muskan@example.com</p>
-      <p>💼 LinkedIn: linkedin.com/in/muskan</p>
+      <p>Email: muskan@example.com</p>
+      <p>LinkedIn: linkedin.com/in/muskan</p>
     </div>
   </section>
 
   <footer>
-    <p>© 2025 Muskan Singh | Made with 💖</p>
+    <p>2025 Muskan Singh | Made with Love</p>
   </footer>
 
 </body>
