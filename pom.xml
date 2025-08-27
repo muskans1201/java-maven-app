@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>maven-muskaan-app</finalName>
+    <finalName>maven-cloudaseem-app</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
