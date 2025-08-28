@@ -76,7 +76,7 @@
 
   <header>
     <h1>Muskan Singh</h1>
-    <p>Cloud & DevOps Enthusiast | Problem Solver | Learner</p>
+    <p>Cloud & DevOps Engineer | Problem Solver | Learner</p>
   </header>
 
   <nav>
